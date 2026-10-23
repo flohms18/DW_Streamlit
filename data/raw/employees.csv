@@ -1,0 +1,11 @@
+employee_id,department,job_title,contract_type,hire_date,termination_date
+E001,IT,Developer,CDI,2023-01-15,
+E002,HR,HR Manager,CDI,2022-06-01,
+E003,Finance,Accountant,CDD,2024-03-10,2025-01-31
+E004,IT,Data Analyst,CDI,2024-09-01,
+E005,Marketing,Marketing Manager,CDI,2023-05-20,
+E006,HR,Recruiter,CDD,2025-02-01,
+E007,Finance,Financial Analyst,CDI,2022-11-12,
+E008,IT,Developer,CDI,2025-01-10,
+E009,Marketing,Designer,Stage,2025-04-01,2025-09-30
+E010,Finance,Accountant,CDI,2023-07-15
